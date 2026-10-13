@@ -39,7 +39,6 @@ const aarush = {
   <img src="https://streak-stats.demolab.com?user=AarushShetty346&theme=transparent&hide_border=true" alt="GitHub streak"/>
 </p>
 
-### Snake eating my contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AarushShetty346/AarushShetty346/output/github-snake-dark.svg"/>
