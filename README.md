@@ -40,6 +40,14 @@ const aarush = {
 </p>
 
 
+### Now playing
+
+<p align="center">
+  <a href="https://open.spotify.com/user/rdyxltcokotvop9m87p08awrs">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rdyxltcokotvop9m87p08awrs&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify now playing"/>
+  </a>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AarushShetty346/AarushShetty346/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AarushShetty346/AarushShetty346/output/github-snake.svg"/>
