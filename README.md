@@ -29,6 +29,18 @@ const aarush = {
   </a>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AarushShetty346/AarushShetty346/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AarushShetty346/AarushShetty346/output/github-snake.svg"/>
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/AarushShetty346/AarushShetty346/output/github-snake.svg"/>
+</picture>
+
+### Now playing
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rdyxltcokotvop9m87p08awrs&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=true&bar_color_cover=true" alt="Spotify now playing"/>
+</p>
+
 ### GitHub stats
 
 <p align="center">
@@ -38,18 +50,5 @@ const aarush = {
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AarushShetty346&theme=transparent&hide_border=true" alt="GitHub streak"/>
 </p>
-
-
-### Now playing
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rdyxltcokotvop9m87p08awrs&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=true&bar_color_cover=true" alt="Spotify now playing"/>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AarushShetty346/AarushShetty346/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AarushShetty346/AarushShetty346/output/github-snake.svg"/>
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/AarushShetty346/AarushShetty346/output/github-snake.svg"/>
-</picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0fbf9f,100:2e9df7&height=120&section=footer" width="100%"/>
