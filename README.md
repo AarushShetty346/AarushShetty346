@@ -43,9 +43,7 @@ const aarush = {
 ### Now playing
 
 <p align="center">
-  <a href="https://open.spotify.com/user/rdyxltcokotvop9m87p08awrs">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rdyxltcokotvop9m87p08awrs&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=true&bar_color_cover=true" alt="Spotify now playing"/>
-  </a>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rdyxltcokotvop9m87p08awrs&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=true&bar_color_cover=true" alt="Spotify now playing"/>
 </p>
 
 <picture>
