@@ -17,8 +17,7 @@
 const aarush = {
   studying:    "Computer Science @ VIT Vellore",
   buildingNow: ["Lap by Lap (F1 data explorer)", "Compiler Visualizer"],
-  interests:   ["full-stack web", "data viz", "networks", "Formula 1"],
-  askMeAbout:  "MongoDB queries, React animations, regex → DFA",
+  interests:   ["full-stack web", "data viz", "networks"],
 };
 ```
 
