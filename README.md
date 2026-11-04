@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-stack+web+apps+with+React+%2B+Node;Turning+an+F1+season+into+26%2C657+laps+of+data;Visualizing+compiler+algorithms+step+by+step;Catching+covert+channels+in+ICMP+traffic;Flutter+apps+with+Firebase+auth" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Shikshak%3A+a+voice+maths+tutor+in+Hindi+%2B+English;RelayRoom%3A+people+%2B+coding+agents%2C+one+room;Turning+an+F1+season+into+26%2C657+laps+of+data;Visualizing+compiler+algorithms+step+by+step;Catching+covert+channels+in+ICMP+traffic" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 ```js
 const aarush = {
   studying:    "Computer Science @ VIT Vellore",
-  buildingNow: ["Lap by Lap (F1 data explorer)", "Compiler Visualizer"],
+  buildingNow: ["Shikshak (voice maths tutor)", "RelayRoom (people + coding agents, one room)"],
   interests:   ["full-stack web", "data viz", "networks"],
 };
 ```
@@ -25,7 +25,7 @@ const aarush = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,dart,html,css,react,vite,nodejs,express,mongodb,flutter,firebase,threejs,docker,git,github&perline=9" alt="Tech stack icons"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,python,dart,html,css,react,vite,nodejs,express,mongodb,postgres,flutter,firebase,threejs,docker,git,github&perline=9" alt="Tech stack icons"/>
   </a>
 </p>
 
