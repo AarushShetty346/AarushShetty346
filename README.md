@@ -17,7 +17,7 @@
 const aarush = {
   studying:    "Computer Science @ VIT Vellore",
   buildingNow: ["Shikshak (voice maths tutor)", "RelayRoom (people + coding agents, one room)"],
-  interests:   ["full-stack web", "data viz", "networks"],
+  interests:   ["full-stack web", "voice AI", "AI agents", "data viz", "networks"],
 };
 ```
 
