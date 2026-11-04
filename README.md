@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Shikshak%3A+a+voice+maths+tutor+in+Hindi+%2B+English;RelayRoom%3A+one+workspace+for+devs+and+their+AI+agents;Turning+an+F1+season+into+26%2C657+laps+of+data;Visualizing+compiler+algorithms+step+by+step" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Shikshak%3A+a+voice+tutor;RelayRoom%3A+one+workspace+for+devs+and+their+AI+agents;Turning+an+F1+season+into+26%2C657+laps+of+data;Visualizing+compiler+algorithms+step+by+step" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 ```js
 const aarush = {
   studying:    "Computer Science @ VIT Vellore",
-  buildingNow: ["Shikshak (voice maths tutor)", "RelayRoom (one workspace for devs and their AI agents)"],
+  buildingNow: ["Shikshak (a voice tutor)", "RelayRoom (one workspace for devs and their AI agents)"],
   interests:   ["full-stack web", "voice AI", "AI agents", "data viz", "networks"],
 };
 ```
