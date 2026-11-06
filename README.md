@@ -25,7 +25,7 @@ const aarush = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,dart,html,css,react,vite,nodejs,express,mongodb,postgres,flutter,firebase,threejs,docker,git,github&perline=9" alt="Tech stack icons"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,dart,html,css,react,vite,nodejs,express,fastapi,mongodb,postgres,flutter,firebase,docker,git,github&perline=10" alt="Tech stack icons"/>
   </a>
 </p>
 
